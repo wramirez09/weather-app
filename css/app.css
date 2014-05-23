@@ -1,0 +1,67 @@
+body{
+	color: #FFF;
+	margin: 0px;
+	padding: 0px;
+	font-family: Helvetica Neue,HelveticaNeue,helvetica,arial,sans-serif;
+}
+
+
+.main{
+		width: 900px;		
+}
+
+.main p{
+
+	height: auto;
+	font-size: 497.461%;
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.9);
+	font-weight: bold;
+}
+
+
+.container{
+	height: 960px;
+}
+
+.blurr{
+-webkit-filter: blur(5px);
+-moz-filter: blur(5px);
+-o-filter: blur(5px);
+-ms-filter: blur(5px);
+filter: blur(5px);
+}
+	
+
+.stateAndDate p{
+	height: auto;
+	font-size: 538.461%;
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.9);
+	width: 900px;
+}
+
+.container div.main{
+	padding-bottom: 0px !important;
+	height: 175px;
+}
+
+.stateAndDate p.lead{
+	margin-bottom: 0px;
+}
+
+.container div.main{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+div.jumbotron.main{
+	margin-top:100px;
+	/*background-color: rgba(0,0,0,0.7);*/
+}
+
+.lead{
+	width: 910px;
+}
+
+
+
